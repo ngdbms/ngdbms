@@ -20,6 +20,7 @@
 - License information can be found in the COPYING files.
 - Altibase includes GPC sources, so, if you want to use those sources for commertial use then you need to buy "General Polygon Clipper (GPC) License".
 
+
 ### Build environment setting steps
 <pre><code>
 - OS: Red Hat Enterprise Linux 6.x
